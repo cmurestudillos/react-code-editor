@@ -1,6 +1,6 @@
 {
   "name": "code-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Editor simple de codigo para probar snippets de codigo antes de incluirlos en nuestra app.",
   "main": "index.js",
   "keywords": ["HTML","CSS","JS","Code_Editor","Code"],
