@@ -3,7 +3,6 @@
 </p>
 
 # Code editor - React.js
-
 Editor simple de codigo para probar snippets de codigo antes de incluirlos en nuestra app
 
 ## Herramientas
